@@ -1,0 +1,9 @@
+
+.bookList li {
+  cursor: pointer;
+  width: 640px;
+}
+ 
+.selected {
+  background-color: orange;
+}

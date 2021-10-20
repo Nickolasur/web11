@@ -1,0 +1,18 @@
+#block {
+  background-color: rgb(243, 236, 242);
+  min-height: 100px;
+  min-width: 200px;
+  position: relative;
+  width: 400px;
+  border: 1px solid black;
+}
+#block_resize {
+  background-color: rgb(126, 122, 122);
+  bottom: 0;
+  cursor: se-resize;
+  height: 12px;
+  margin-top: 9px;
+  position: absolute;
+  right: 0;
+  width: 12px;
+}
